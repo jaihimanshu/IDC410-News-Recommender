@@ -17,7 +17,7 @@ pip install hashlib
 pip install logging
 pip install sklearn
 pip install nltk
-pip install re
+
 ```
 
 # Running Instructions
