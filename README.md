@@ -14,7 +14,6 @@ pip install numpy
 pip install datetime
 pip install random
 pip install hashlib
-pip install csv
 pip install logging
 pip install sklearn
 pip install nltk
