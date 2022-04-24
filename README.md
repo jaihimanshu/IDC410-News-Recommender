@@ -1,5 +1,11 @@
 # IDC410-News-Recommender
-IDC410 News Recommender Submission(MS19026, MS19037, MS19107)
+IDC410(2022) News Recommender Submission
+
+# Team Members
+1. **Himanshu Jain**- MS19026
+2. **Ira Sharma**- MS19037
+3. **Shreya Pipraiya**- MS19107
+
 
 # Instruction to Set Up
 1. Clone this repository locally.
