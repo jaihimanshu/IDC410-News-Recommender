@@ -20,3 +20,11 @@ pip install sklearn
 pip install nltk
 pip install re
 ```
+
+# Running Instructions
+
+1. Open Windows PowerShell inside the folder containing this repository.
+2. Type the following-
+`python main.py`
+
+**Note**:- You may have to use a different alias instead of `python` depending on the way python is set up on your device.
